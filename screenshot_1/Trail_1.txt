@@ -1,0 +1,3 @@
+vocab_size= 150000
+size of text vector = 350
+Execution = 3 times.
